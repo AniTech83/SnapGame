@@ -1,0 +1,14 @@
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\SnapGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\SnapGame.AssemblyInfoInputs.cache
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\SnapGame.AssemblyInfo.cs
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\SnapGame.csproj.CoreCompileInputs.cache
+C:\Users\animesh.kumar\Desktop\SnapGame\bin\Debug\net8.0\SnapGame.exe
+C:\Users\animesh.kumar\Desktop\SnapGame\bin\Debug\net8.0\SnapGame.deps.json
+C:\Users\animesh.kumar\Desktop\SnapGame\bin\Debug\net8.0\SnapGame.runtimeconfig.json
+C:\Users\animesh.kumar\Desktop\SnapGame\bin\Debug\net8.0\SnapGame.dll
+C:\Users\animesh.kumar\Desktop\SnapGame\bin\Debug\net8.0\SnapGame.pdb
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\SnapGame.dll
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\refint\SnapGame.dll
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\SnapGame.pdb
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\SnapGame.genruntimeconfig.cache
+C:\Users\animesh.kumar\Desktop\SnapGame\obj\Debug\net8.0\ref\SnapGame.dll
